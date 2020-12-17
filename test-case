@@ -1,0 +1,5 @@
+Windows thì tìm : ccproxy c ( search google ra keygen rồi download từ trang chủ về dùng thôi, đừng download ở mấy site crack dễ virus )
+linux :
+dưới là ví dụ cài socks5 port 1993 không có user authen và mọi ip đều có thể kết nối !
+Bạn có thể xem thêm ở trang github nếu muốn thêm user và ip có thể kêt nối !
+wget --no-check-certificate https://raw.github.com/Lozy/danted/master/install.sh -O install.sh && bash install.sh --port=1993 --whitelist="0.0.0.0/0"
